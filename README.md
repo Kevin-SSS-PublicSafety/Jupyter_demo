@@ -1,5 +1,5 @@
 # Jupyter_demo
-Some jupyter notebooks to investigate the usefulness of thses for supporting development and test of the Police Works application
+Some jupyter notebooks to investigate the usefulness of these for supporting development and test of the Police Works application
 
 1. Database_KT attempts to recreate the KT sessions provided to a new starter
 2. triage recreates some queries used to check statistics 
