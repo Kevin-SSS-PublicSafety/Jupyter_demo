@@ -7,5 +7,6 @@ Some jupyter notebooks to investigate the usefulness of these for supporting dev
 To run these notebooks 
 1. download from this repo
 2. install python from https://www.python.org/downloads/  
-3. install jupyter labs - run from the command line: py -m pip install jupyterlab
-4. navigate to the local repo and run jupyter - run from the command line: py -m jupyterlab
+3. install jupyter labs - run from the command line: "py -m pip install jupyterlab"
+4. navigate to the local repo and run jupyter - run from the command line: "py -m jupyterlab"
+NB you may have to install other packages to support the notebooks - "py -m pip install _package_name_"
